@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocalizationInAndroidApp</string>
+    <string name="message">
+बिटकोड में एंड्रॉइड बैच में आपका स्वागत है!</string>
+</resources>
